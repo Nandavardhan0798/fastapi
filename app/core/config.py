@@ -1,9 +1,3 @@
-<<<<<<< HEAD
-# Your local changes
-=======
-# Changes from GitHub
->>>>>>> origin/main
-
 import os
 from dotenv import load_dotenv
 
